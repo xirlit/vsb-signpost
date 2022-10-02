@@ -2,6 +2,8 @@ import { FC } from 'react';
 import SubjectContainer from './SubjectContainer';
 import SubjectTestContainer, { SubjectTestProps } from './SubjectTestContainer'
 
+import './MA1.css'
+
 const MA1: FC = () => {
     const creditsTests: SubjectTestProps[] = [
         {
@@ -34,6 +36,55 @@ const MA1: FC = () => {
                 body ze zápočtových testů se připočítávají k celkovým bodům ze zkoušky.
             </div>
             <div>Celkem bodů: 100</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
+            <div>Minimum bodů: 51</div>
             <div>Minimum bodů: 51</div>
         </SubjectContainer>
     )
