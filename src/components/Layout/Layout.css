@@ -1,0 +1,16 @@
+main {
+  flex: 1 0 auto;
+  align-items: center;
+  max-width: 195vh;
+  margin: 30px;
+}
+
+.page {
+  display: flex;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+
+.page > *:nth-child(2) {
+  align-self: center;
+}
